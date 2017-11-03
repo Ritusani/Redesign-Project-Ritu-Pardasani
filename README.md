@@ -1,4 +1,5 @@
-Project outline 
+
+## Project outline 
 
 I read an article in the wall street journal titled as – “Wind Power Wins Converts in Rural U.S., Economic impact of wind farms is changing the political dynamics of renewable energy”. This article’s claim was supported by a visualization on Wind energy installations in the year 2016 mapped with the voting in various states. My project consists of redesigning that visualization.
 I have redesigned and made a visualization which actually clears the motive of the original visualization and refutes the claim of the same. I have shown the same visualization in a simpler way and removed the deceiving aspects of it. The original visualization presents data on Wind capacity generated in different states in November 2016 and is linked with the elections data (as elections also happened in November 2016) to show that states with higher wind energy capacity voted for Mr. Donald Trump. 
@@ -151,6 +152,6 @@ References –
 
 
 
-
+werf
 
 
