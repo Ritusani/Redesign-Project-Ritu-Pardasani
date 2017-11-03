@@ -1,17 +1,20 @@
+# Redesign Project Documentation                                                      Guided by Prof. Michael Schermann
 
-## Project outline 
+Tableau Public Link - 
+
+## Project Outline 
 
 I read an article in the **Wall Street Journal** titled as – **_“Wind Power Wins Converts in Rural U.S., Economic impact of wind farms is changing the political dynamics of renewable energy”_**. This article’s claim was supported by a visualization on Wind energy installations in the year 2016 mapped with the voting in various states. I chose to redesign that visualization for my project.
 
 I have redesigned and made a visualization which actually clears the motive of the original visualization and refutes the claim of the same. I have shown the same visualization in a simpler way and removed the deceiving aspects of it. The original visualization presents data on Wind capacity generated in different states in November 2016 and is linked with the elections data (as elections also happened in November 2016) to show that states with higher wind energy capacity voted for Mr. Donald Trump. 
 
-## Project motivation
+## Project Motivation
 
 I personally feel that using renewable sources than non-renewable sources is a better idea considering the fact that we’ll run out of the non-renewable sources soon. 
 
 When I saw this chart, it struck me that the total wind capacity generated across all the states is actually way less than the country’s potential and this capacity was also being correlated with the ruling government. When I saw this chart, there was something odd about it. Since, millions of people read such journals, I decided to research more on this topic and hence picked this particular chart for my redesign project.
   
-## Visualization to be redesigned
+## Visualization to be Redesigned
 
 <img width="550" alt="redesign_chart" src="https://user-images.githubusercontent.com/32205588/32391666-1f299d4e-c090-11e7-8ec1-53b0208c109c.png">
 
