@@ -1,7 +1,7 @@
 
 ## Project outline 
 
-I read an article in the **Wall Street Journal** titled as – _**“Wind Power Wins Converts in Rural U.S., Economic impact of wind farms is changing the political dynamics of renewable energy”_**. This article’s claim was supported by a visualization on Wind energy installations in the year 2016 mapped with the voting in various states. I chose to redesign that visualization for my project.
+I read an article in the **Wall Street Journal** titled as – **_“Wind Power Wins Converts in Rural U.S., Economic impact of wind farms is changing the political dynamics of renewable energy”_**. This article’s claim was supported by a visualization on Wind energy installations in the year 2016 mapped with the voting in various states. I chose to redesign that visualization for my project.
 
 I have redesigned and made a visualization which actually clears the motive of the original visualization and refutes the claim of the same. I have shown the same visualization in a simpler way and removed the deceiving aspects of it. The original visualization presents data on Wind capacity generated in different states in November 2016 and is linked with the elections data (as elections also happened in November 2016) to show that states with higher wind energy capacity voted for Mr. Donald Trump. 
 
@@ -23,8 +23,11 @@ When I saw this chart, it struck me that the total wind capacity generated acros
 2.	The graph is showing 4 measures:
 
     •	Some States (Depicted by the circles on the graph and only states with at least 1MW capacity are shown)
+    
     •	Percentage of vote won by Donald Trump (y axis, shown by red colored bubbles)
+    
     •	Percentage of vote won by Hilary Clinton (x axis, shown by blue colored bubbles)
+    
     •	Wind capacity in Megawatts (MW) generated in each state (show by the sizes of the circles depicting states)
     
 3.	This graph shows that Texas has the maximum wind capacity but it also shows that it is very close to the blue bubbles which could mean that the margin of votes in Texas was very low. 
