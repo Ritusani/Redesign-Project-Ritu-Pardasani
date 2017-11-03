@@ -1,7 +1,7 @@
 # Redesign Project Documentation                                                      
 ### _-Guided by Prof. Michael Schermann_
 
-**Tableau Public Link - ** 
+**Tableau Public Link** - 
 
 ## Project Outline 
 
