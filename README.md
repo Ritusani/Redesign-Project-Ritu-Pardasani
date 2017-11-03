@@ -1,31 +1,42 @@
 
 ## Project outline 
 
-I read an article in the wall street journal titled as – “Wind Power Wins Converts in Rural U.S., Economic impact of wind farms is changing the political dynamics of renewable energy”. This article’s claim was supported by a visualization on Wind energy installations in the year 2016 mapped with the voting in various states. My project consists of redesigning that visualization.
+I read an article in the **Wall Street Journal** titled as – _**“Wind Power Wins Converts in Rural U.S., Economic impact of wind farms is changing the political dynamics of renewable energy”_**. This article’s claim was supported by a visualization on Wind energy installations in the year 2016 mapped with the voting in various states. I chose to redesign that visualization for my project.
+
 I have redesigned and made a visualization which actually clears the motive of the original visualization and refutes the claim of the same. I have shown the same visualization in a simpler way and removed the deceiving aspects of it. The original visualization presents data on Wind capacity generated in different states in November 2016 and is linked with the elections data (as elections also happened in November 2016) to show that states with higher wind energy capacity voted for Mr. Donald Trump. 
-Project motivation 
+
+## Project motivation
+
 I personally feel that using renewable sources than non-renewable sources is a better idea considering the fact that we’ll run out of the non-renewable sources soon. 
+
 When I saw this chart, it struck me that the total wind capacity generated across all the states is actually way less than the country’s potential and this capacity was also being correlated with the ruling government. When I saw this chart, there was something odd about it. Since, millions of people read such journals, I decided to research more on this topic and hence picked this particular chart for my redesign project.
   
-Visualization to be redesigned –
-screenshot
+## Visualization to be redesigned
+
+![alt text][logo]
+[logo]: https://github.com/Ritusani/Redesign-Project-Ritu-Pardasani/blob/master/redesign_chart.png
 
 
-Following are some key observations one can entail upon looking at the original visualization –
+### Following are some key observations one can entail upon looking at the original visualization:
 
 1.	This graph claims that nearly 90% of the wind capacity bought online in 2016 was in states that voted for Donald Trump. 
-2.	The graph is showing 4 measures – 
-•	Some States (Depicted by the circles on the graph and only states with at least 1MW capacity are shown)
-•	percentage of vote won by Donald Trump (y axis, shown by red colored bubbles)
-•	percentage of vote won by Hilary Clinton (x axis, shown by blue colored bubbles)
-•	Wind capacity in Megawatts (MW) generated in each state (show by the sizes of the circles depicting states)
+
+2.	The graph is showing 4 measures:
+
+    •	Some States (Depicted by the circles on the graph and only states with at least 1MW capacity are shown)
+    •	Percentage of vote won by Donald Trump (y axis, shown by red colored bubbles)
+    •	Percentage of vote won by Hilary Clinton (x axis, shown by blue colored bubbles)
+    •	Wind capacity in Megawatts (MW) generated in each state (show by the sizes of the circles depicting states)
+    
 3.	This graph shows that Texas has the maximum wind capacity but it also shows that it is very close to the blue bubbles which could mean that the margin of votes in Texas was very low. 
-4.	The sizes of the circles rank the wind capacity as follows – 
--	Texas 
--	Iowa 
--	Oklahoma 
--	California 
--	Kansas / Illinois
+
+4.	The sizes of the circles rank the wind capacity as follows:
+    •	Texas 
+    •	Iowa 
+    •	Oklahoma 
+    •	California 
+    •	Kansas / Illinois
+
 5.	As this chart was trying to prove something and is failing to do so, as a lot of aspects of this chart ranging from the axes to the actual values are deceiving. Hence I decided to do an analysis on this to verify the correctness of the claim. 
 
 Problems with this chart –
