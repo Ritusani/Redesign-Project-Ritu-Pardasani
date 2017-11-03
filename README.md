@@ -143,13 +143,11 @@ Data sources –
 References – 
 
 
-Reference-style: 
 ![alt text][logo]
 
 
 
-[logo]: https://github.com/Ritusani/test/blob/master/Image12.png "Logo Title Text 2"
-
+[logo]: https://github.com/Ritusani/test/blob/master/Image1.png
 
 
 
