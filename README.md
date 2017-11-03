@@ -179,6 +179,39 @@ Wind Energy Dataset: Extracted from https://public.tableau.com/profile/hhunt3307
 
 ## References
 
+WTF VISUALIZATIONS
+(Viz.wtf, 2017)
+Viz.wtf. (2017). WTF Visualizations. [online] Available at: http://viz.wtf/ [Accessed 3 Nov. 2017].
+
+WIND ENERGY FACTS AT A GLANCE
+(Awea.org, 2017)
+Awea.org. (2017). Wind Energy Facts at a Glance. [online] Available at: https://www.awea.org/wind-energy-facts-at-a-glance [Accessed 3 Nov. 2017].
+
+
+POPOVICH, J.
+In Trump Country, Renewable Energy Is Thriving
+(Popovich, 2017)
+Popovich, J. (2017). In Trump Country, Renewable Energy Is Thriving. [online] Nytimes.com. Available at: https://www.nytimes.com/2017/06/06/climate/renewable-energy-push-is-strongest-in-the-reddest-states.html [Accessed 3 Nov. 2017].
+
+
+EIA - ELECTRICITY DATA
+In-text: (Eia.gov, 2017)
+Your Bibliography: Eia.gov. (2017). EIA - Electricity Data. [online] Available at: https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_1_14_a [Accessed 3 Nov. 2017].
+
+WIND POWER WINS CONVERTS IN RURAL U.S.
+In-text: (WSJ, 2017)
+Your Bibliography: WSJ. (2017). Wind Power Wins Converts in Rural U.S.. [online] Available at: https://www.wsj.com/articles/wind-power-wins-converts-in-rural-u-s-1504699201 [Accessed 3 Nov. 2017].
+
+
+KANTCHEV, G.
+Harsh Political Winds Test Euro’s Stability and Future
+In-text: (Kantchev, 2017)
+Your Bibliography: Kantchev, G. (2017). Harsh Political Winds Test Euro’s Stability and Future. [online] WSJ. Available at: https://www.wsj.com/articles/euro-claws-back-losses-after-italys-no-vote-1480934548 [Accessed 3 Nov. 2017].
+
+
+
+
+
 
 
 
