@@ -87,7 +87,7 @@ When I saw this chart, it struck me that the total wind capacity generated acros
 
 **_Nearly 90% of the wind energy brought online in 2016 was in states that voted for Donald Trump._** 
 
-### Claim of the improved version of visualization
+## Claim of the improved version of visualization
 
 **_Wind capacity bought online in 2016 is not related with the elections which implies no impact caused on voting patterns._** 
 
@@ -172,12 +172,17 @@ I had taken the difference of the votes of the two candidates and I subtracted v
 
 ## Data sources
 
+Elections Dataset: Extracted from https://uselectionatlas.org/RESULTS/data.php?year=2016&datatype=national&def=1&f=0&off=0&elect=0 using Web Scrapper Tool on October, 8 2017
+
+Wind Energy Dataset: Extracted from https://public.tableau.com/profile/hhunt3307#!/vizhome/StateFactSheetPage_0/StateFactSheets using the tableau public on October, 8 2017
+
+
 ## References
 
 
 
 
 
-werf
+
 
 
