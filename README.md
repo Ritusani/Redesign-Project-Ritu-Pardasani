@@ -2,6 +2,7 @@
 ### _-Guided by Prof. Michael Schermann_
 
 **Tableau Public Link** - 
+https://public.tableau.com/profile/ritu.pardasani#!/vizhome/RedesignProject_RituPardasani/Final_analysis?publish=yes
 
 ## Project Outline 
 
