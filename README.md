@@ -69,7 +69,7 @@ When I saw this chart, it struck me that the total wind capacity generated acros
 
 ## Improved Visualization
  
- <img width="1024" alt="final_chart" src="https://user-images.githubusercontent.com/32205588/32391777-8fa9cdfa-c090-11e7-81aa-79aa72cc968c.png">
+<img width="927" alt="final" src="https://user-images.githubusercontent.com/32205588/32395473-7d972550-c09e-11e7-8373-0bae3f839b5f.png">
 
 
 ### How did I improve and redesigned the original visualization:
