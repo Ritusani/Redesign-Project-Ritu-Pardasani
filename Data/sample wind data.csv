@@ -1,0 +1,52 @@
+Null,State filter,Megawatts,Number of Records,Rank,State Abbreviation,State,Type of Wind Capacity
+ ,FALSE,62,1,35,AK,Alaska,Installed
+ ,FALSE,0,1,41,AL,Alabama,Installed
+ ,FALSE,0,1,41,AR,Arkansas,Installed
+ ,FALSE,268,1,28,AZ,Arizona,Installed
+ ,FALSE,5662,1,3,CA,California,Installed
+ ,FALSE,2965,1,10,CO,Colorado,Installed
+ ,FALSE,5,1,39,CT,Connecticut,Installed
+ ,FALSE,0,1,41,DC,District of Columbia,Installed
+ ,FALSE,2,1,40,DE,Delaware,Installed
+ ,FALSE,0,1,41,FL,Florida,Installed
+ ,FALSE,0,1,41,GA,Georgia,Installed
+ ,FALSE,203,1,29,HI,Hawaii,Installed
+ ,FALSE,6365,1,2,IA,Iowa,Installed
+ ,FALSE,973,1,19,ID,Idaho,Installed
+ ,FALSE,3842,1,5,IL,Illinois,Installed
+ ,FALSE,1895,1,12,IN,Indiana,Installed
+ ,FALSE,3836,1,6,KS,Kansas,Installed
+ ,FALSE,0,1,41,KY,Kentucky,Installed
+ ,FALSE,0,1,41,LA,Louisiana,Installed
+ ,FALSE,115,1,34,MA,Massachusetts,Installed
+ ,FALSE,190,1,30,MD,Maryland,Installed
+ ,FALSE,656,1,22,ME,Maine,Installed
+ ,FALSE,1531,1,14,MI,Michigan,Installed
+ ,TRUE,3435,1,7,MN,Minnesota,Installed
+ ,FALSE,459,1,25,MO,Missouri,Installed
+ ,FALSE,0,1,41,MS,Mississippi,Installed
+ ,FALSE,665,1,21,MT,Montana,Installed
+ ,FALSE,0,1,41,NC,North Carolina,Installed
+ ,TRUE,2143,1,11,ND,North Dakota,Installed
+ ,FALSE,926,1,20,NE,Nebraska,Installed
+ ,FALSE,185,1,31,NH,New Hampshire,Installed
+ ,FALSE,9,1,38,NJ,New Jersey,Installed
+ ,TRUE,1112,1,17,NM,New Mexico,Installed
+ ,FALSE,152,1,32,NV,Nevada,Installed
+ ,FALSE,1749,1,13,NY,New York,Installed
+ ,FALSE,444,1,26,OH,Ohio,Installed
+ ,TRUE,5453,1,4,OK,Oklahoma,Installed
+ ,FALSE,3163,1,8,OR,Oregon,Installed
+ ,FALSE,1340,1,16,PA,Pennsylvania,Installed
+ ,FALSE,21,1,37,RI,Rhode Island,Installed
+ ,FALSE,0,1,41,SC,South Carolina,Installed
+ ,FALSE,977,1,18,SD,South Dakota,Installed
+ ,FALSE,29,1,36,TN,Tennessee,Installed
+ ,FALSE,18531,1,1,TX,Texas,Installed
+ ,FALSE,391,1,27,UT,Utah,Installed
+ ,FALSE,0,1,41,VA,Virginia,Installed
+ ,FALSE,119,1,33,VT,Vermont,Installed
+ ,FALSE,3075,1,9,WA,Washington,Installed
+ ,FALSE,648,1,23,WI,Wisconsin,Installed
+ ,FALSE,583,1,24,WV,West Virginia,Installed
+ ,FALSE,1410,1,15,WY,Wyoming,Installed
