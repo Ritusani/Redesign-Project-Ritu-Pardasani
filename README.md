@@ -1,6 +1,8 @@
 # Redesign Project Documentation                                                      
 ### _-Guided by Prof. Michael Schermann_
 
+**Link to the video** - https://drive.google.com/open?id=0Bzf2fXtK6tHLRC1sbHh0NTcxbkk
+
 **Tableau Public Link** - 
 https://public.tableau.com/profile/ritu.pardasani#!/vizhome/RedesignProject_RituPardasani/Final_analysis?publish=yes
 
